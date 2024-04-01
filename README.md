@@ -3,7 +3,7 @@
 ## Run application using docker
 
 ```
-$ docker-compose
+$ docker-compose up --build
 ```
 
 ## Installation
