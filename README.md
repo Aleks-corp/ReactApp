@@ -14,6 +14,15 @@ $ yarn
 
 ## Running application
 
+### # config env file
+```
+ENV POSTGRES_HOST=localhost
+ENV POSTGRES_PORT=5432
+ENV POSTGRES_USER=postgres
+ENV POSTGRES_PASSWORD=postgres
+ENV POSTGRES_DB=postgres
+```
+
 ### # run frontend
 
 ```
